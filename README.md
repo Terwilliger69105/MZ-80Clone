@@ -43,8 +43,12 @@ I would also like, since finding one seems to be tough, to make plans for a mode
 
 ### Credits
 
-The [Pasocom Mini MZ-80C](https://www.pcmini.jp),
+Karl-Heinz's amazing [sharpmz.org](sharpmz.org) and it's also-amazing continuation by Geir & Jo Even,
 
-Karl-Heinz's [sharpmz.org](sharpmz.org) and it's continuation by Geir & Jo Even,
+[Sharpworks](http://mz-sharpworks.co.uk/) for publishing some sick homebrew,
+
+[Joachim Froholt](https://twitter.com/joachimfroholt?lang=en) for making some sick homebrew,
+
+[mz-80a.com](https://mz-80a.com/) for being an extremely useful resource,
 
 ZenMarket for letting me be addicted to retro Japanese computers.
