@@ -52,3 +52,5 @@ Karl-Heinz's amazing [sharpmz.org](sharpmz.org) and it's also-amazing continuati
 [mz-80a.com](https://mz-80a.com/) for being an extremely useful resource,
 
 ZenMarket for letting me be addicted to retro Japanese computers.
+
+If it wasn't for the above sources then I would've never found out about or loved the MZ-80, this computer had honestly slipped my mind until seeing things like [Numbertron](http://mz-sharpworks.co.uk/numbertron/numbertron.htm) which drew me right in. Huge thanks to everyone for giving me something I love so dearly.
